@@ -1,0 +1,10 @@
+{
+  "name": "grid",
+  "repo": "bscomp/grid",
+  "description": "component-bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+    "bscomp/mixins":"*"
+  },
+  "styles": ["index.less"]
+}
